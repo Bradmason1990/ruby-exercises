@@ -1,0 +1,2 @@
+# x prints 3 to the screen for the first one, and the second one produces an error.
+#the error is because the variable x was defined inside the .times block, therefore it is unreachable outside of the block.
